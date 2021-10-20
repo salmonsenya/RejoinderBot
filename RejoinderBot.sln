@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RejoinderBot", "RejoinderBot\RejoinderBot.csproj", "{BF3A156A-F194-4F56-9B8D-45D426899496}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gh-pages", "gh-pages", "{DA47FAF7-B8C9-40BB-A85E-C3A3B8FE3E9F}"
+	ProjectSection(SolutionItems) = preProject
+		index.md = index.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
